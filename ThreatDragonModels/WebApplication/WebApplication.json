@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "WebApplication",
+    "owner": "Ravi G"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "ThreatModel",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Prasad"
+  }
+}
